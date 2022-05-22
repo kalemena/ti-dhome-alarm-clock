@@ -1,2 +1,7 @@
-# ti-dhome-alarm-clock
-Alarm clock with unusual features
+= ti-dhome-alarm-clock
+:toc:
+:hardbreaks:
+
+Alarm clock with unusual features.
+
+TIP: In Progress...
