@@ -5,3 +5,13 @@
 Alarm clock with unusual features.
 
 TIP: In Progress...
+
+== Features
+
+Expected capabilities:
+
+.Normal features:
+* Display Date and Time
+* Setup alarm clock
+* Buzz
+
