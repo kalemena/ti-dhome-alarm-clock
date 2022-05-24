@@ -15,3 +15,9 @@ Expected capabilities:
 * Setup alarm clock
 * Buzz
 
+.Advanced features:
+* Project Time on wall
+* Play MP3 instead of Buzz
+* Slowly light up
+* Meteo for today or next day
+
