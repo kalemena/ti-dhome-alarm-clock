@@ -22,7 +22,8 @@ Expected capabilities:
 * Meteo for today or next day
 
 .Unseen features:
-* Allow for each day of week distinct time
+* Display using e-Ink
+* Allow for each day of week distinct time or no alarm
 * Disable alarm before buzz time, for when you wake up earlier and to avoid buzz the house on that day
 * Allow for a range-time alarm instead of fixed time, to randomize a little each days
 * Setup remotely through a connected channel
