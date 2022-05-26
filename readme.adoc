@@ -21,3 +21,10 @@ Expected capabilities:
 * Slowly light up
 * Meteo for today or next day
 
+.Unseen features:
+* Allow for each day of week distinct time
+* Disable alarm before buzz time, for when you wake up earlier and to avoid buzz the house on that day
+* Allow for a range-time alarm instead of fixed time, to randomize a little each days
+* Setup remotely through a connected channel
+* Reminder for today/next day event(s)
+
