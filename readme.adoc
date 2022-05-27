@@ -29,6 +29,12 @@ Expected capabilities:
 * Setup remotely through a connected channel
 * Reminder for today/next day event(s)
 
+== Hardware
+
+Possible hardware:
+
+* ESP32
+* Pico Pi W (no bluetooth !)
 
 == Questions
 
