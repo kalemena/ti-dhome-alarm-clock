@@ -29,3 +29,13 @@ Expected capabilities:
 * Setup remotely through a connected channel
 * Reminder for today/next day event(s)
 
+
+== Questions
+
+Here are few unknown:
+
+* How to project on wall? Should re-use a component?
+* Which device or protocol to setup?
+This seems nowadays easier to setup through a mobile app.
+Thanks to chat channels, this may be even easier to "ask" a bot assistant.
+
